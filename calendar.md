@@ -4,11 +4,7 @@ layout: home
 ---
 
 {: .warning }
-A paragraph...
-
-**TODO**{: .label .label-red }
-
-maybe we need some smart girl to come up with a project name, a logo & an icon.
+[website under construction...] maybe we need some smart girl to come up with a project name/logo/icon!
 
 
 
