@@ -1,8 +1,10 @@
-title: Lecture
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
+title: need a project name, a logo, an icon
+logo: "/assets/images/just-the-docs.png"
+nav_enabled: true
 
-url: https://just-the-docs.github.io
+callouts:
+  warning:
+    title: Warning
+    color: red
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+color_scheme: foo
