@@ -16,5 +16,3 @@ callouts:
   warning:
     title: Warning
     color: red
-
-color_scheme: foo
