@@ -2,3 +2,8 @@ title: ???
 description: [website under construction...]
 theme: just-the-docs
 url: https://just-the-docs.github.io
+
+callouts:
+  warning:
+    title: Warning
+    color: red
