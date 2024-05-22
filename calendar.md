@@ -3,9 +3,13 @@ title: Calendar
 layout: home
 ---
 
-###### Python 
+**TODO**{: .label .label-red }
 
-Sep 28
+maybe we need some smart girl to come up with a project name, a logo & an icon.
+
+# LEC1 [24/05/25]: Python Basics & Birthday Problem
+
+
 : [Java & Git](#)
   : [1.1](#)
 
