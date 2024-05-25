@@ -8,9 +8,9 @@ layout: home
 
 
 
-|   Date   |                 Topic                  |              Note              |                    Recording                    | Material |
-| :------: | :------------------------------------: | :----------------------------: | :---------------------------------------------: | :------: |
-| 24/05/25 | LEC1: Python Basics & Birthday Problem | [NOTE](){: .btn .btn-outline } | [REC](https://youtube.com){: .btn .btn-purple } |   None   |
+|   Date   |                 Topic                  |              Slide              |                    Recording                    | Material |
+| :------: | :------------------------------------: | :-----------------------------: | :---------------------------------------------: | :------: |
+| 24/05/25 | LEC1: Python Basics & Birthday Problem | [Slide](){: .btn .btn-outline } | [REC](https://youtube.com){: .btn .btn-purple } |   None   |
 
 
 
