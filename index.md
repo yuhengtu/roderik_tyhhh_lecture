@@ -1,5 +1,5 @@
 ---
-title: tyhhh's lecture
+title: Tyhhh's Lecture
 layout: home
 ---
 
